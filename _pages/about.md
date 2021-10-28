@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,82 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!-- ## About Me -->
+I am a fifth-year PhD student (2017 - present) of [Language Technology Institute](https://www.lti.cs.cmu.edu) in the School of Computer Science at [Carnegie Mellon University](https://www.cmu.edu). I am fortunate to be co-advised by Prof. [Graham Neubig](http://www.phontron.com) and Prof. [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received bachelor degree in Electronic Engineering from Shanghai Jiao Tong University.
+        
+I am generally interested in natural language processing and machine learning. My research pursues multi-purpose natural language generation in a controllable (interpretable), knowledgable, and sustainable way.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Publications
+**Towards a Unified View of Parameter-Efficient Transfer Learning**  
+*Junxian He*\*, Chunting Zhou* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
+Preprint 2021. [[arxiv]](http://arxiv.org/abs/2110.04366)
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Efficient Nearest Neighbor Language Models**  
+*Junxian He*, Graham Neubig, Taylor Berg-Kirkpatrick  
+EMNLP 2021. [[arxiv]](https://arxiv.org/abs/2109.04212) [[code]](https://github.com/jxhe/efficient-knnlm)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**The Source-Target Domain Mismatch Problem in Machine Translation**  
+Jiajun Shen, Peng-Jen Chen, Matthew Le, *Junxian He*, Jiatao Gu, Myle Ott, Michael Auli, Marc'Aurelio Ranzato  
+EACL 2021. [[arxiv]](https://arxiv.org/abs/1909.13151)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Dependency Induction Through the Lens of Visual Perception**  
+Ruisi Su, Shruti Rijhwani, Hao Zhu, *Junxian He*, Xinyu Wang, Yonatan Bisk, Graham Neubig  
+CoNLL 2021. [[arxiv]](https://arxiv.org/abs/2109.09790) [[code]](https://github.com/ruisi-su/concrete_dep)
 
-**Markdown generator**
+**CTRLsum: Towards Generic Controllable Text Summarization**  
+*Junxian He*, Wojciech Kryściński, Bryan McCann, Nazneen Rajani, Caiming Xiong  
+Preprint 2020. [[arxiv]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/salesforce/ctrl-sum) [[huggingface demo]](https://huggingface.co/spaces/akhaliq/ctrl-sum) [[streamlit demo]](https://share.streamlit.io/jxhe/ctrlsum-demo/ctrlsum_demo.py)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**Learning Sparse Protoypes for Text Generation**  
+*Junxian He*, Taylor Berg-Kirkpatrick, Graham Neubig  
+NeurIPS 2020. [[arxiv]](https://arxiv.org/abs/2006.16336) [[code]](https://github.com/jxhe/sparse-text-prototype)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Revisiting Self-Training for Neural Sequence Generation**  
+*Junxian He*\*, Jiatao Gu* (equal contribution), Jiajun Shen, Marc'Aurelio Ranzato  
+ICLR 2020. [[arxiv]](https://arxiv.org/abs/1909.13788) [[code]](https://github.com/jxhe/self-training-text-generation)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+**A Probabilistic Formulation of Unsupervised Text Style Transfer**  
+*Junxian He*\*, Xinyi Wang* (equal contribution), Graham Neubig, Taylor Berg-Kirkpatrick  
+ICLR 2020 (spotlight). [[arxiv]](https://arxiv.org/abs/2002.03912) [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**On the Sentence Embeddings from Pre-trained Language Models**  
+Bohan Li, Hao Zhou, *Junxian He*, Mingxuan Wang, Yiming Yang, Lei Li  
+EMNLP 2020. [[arxiv]](https://arxiv.org/abs/2011.05864) [[code]](https://github.com/bohanli/BERT-flow)
+
+**A Surprisingly Effective Fix for Deep Latent Variable Modeling of Text**  
+Bohan Li\*, *Junxian He*\* (equal contribution), Graham Neubig, Taylor Berg-Kirkpatrick, Yiming Yang  
+EMNLP 2019 (short paper). [[arxiv]](https://arxiv.org/abs/1909.00868) [[code]](https://github.com/bohanli/vae-pretraining-encoder)
+
+**Cross-Lingual Syntactic Transfer through Unsupervised Adaptation of Invertible Projections**  
+*Junxian He*, Zhisong Zhang, Taylor Berg-Kirkpatrick, Graham Neubig  
+ACL 2019. [[arxiv]](https://arxiv.org/abs/1906.02656) [[code]](https://github.com/jxhe/cross-lingual-struct-flow)
+
+**Texar: A modularized, versatile, and extensible toolkit for text generation**  
+Zhiting Hu, Haoran Shi, Bowen Tan, Wentao Wang, Zichao Yang, Tiancheng Zhao, *Junxian He*, Lianhui Qin, Di Wang, Xuezhe Ma, Zhengzhong Liu, Xiaodan Liang, Wangrong Zhu, Devendra Singh Sachan, Eric P. Xing  
+ACL 2019 (demo paper). Best demo paper nomination. [[arxiv]](https://arxiv.org/abs/1809.00794) [[GitHub]](https://github.com/asyml/texar)
+
+**Lagging Inference Networks and Posterior Collapse in Variational Autoencoders**  
+*Junxian He*, Daniel Spokoyny, Graham Neubig, Taylor Berg-Kirkpatrick  
+ICLR 2019. [[arxiv]](http://arxiv.org/abs/1901.05534) [[code]](https://github.com/jxhe/vae-lagging-encoder)
+
+**Unsupervised Learning of Syntactic Structure with Invertible Neural Projections**   
+*Junxian He*, Graham Neubig, Taylor Berg-Kirkpatrick  
+EMNLP 2018. [[arxiv]](https://arxiv.org/abs/1808.09111) [[code]](https://github.com/jxhe/struct-learning-with-flow)
+
+**StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing**  
+Pengcheng Yin, Chunting Zhou, *Junxian He*, Graham Neubig  
+ACL 2018. [[arxiv]](https://arxiv.org/abs/1806.07832)
+
+**Efficient Correlated Topic Modeling with Topic Embedding**  
+*Junxian He*\*, Zhiting Hu* (equal contribution), Taylor Berg-Kirkpatrick, Ying Huang, Eric Xing  
+KDD 2017. [[arxiv]](https://arxiv.org/abs/1707.00206)
+
+**Text Network Exploration via Heterogeneous Web of Topics**  
+*Junxian He*, Ying Huang, Changfeng Liu, Jiaming Shen, Yuting Jia, Xinbing Wang  
+ICDM 2016 WorkShop. [[arxiv]](https://arxiv.org/abs/1610.00219) [[demo]]({{ site.baseurl }}/demo/TopicAtlas/CiteseerX.html) 
+
+## Awards
+Baidu PhD Fellowship, class of 2020 (10 recipients worldwide)  
+Outstanding Undergraduate Thesis (top 1%)  
+National Scholarship (2014/2015/2016)
