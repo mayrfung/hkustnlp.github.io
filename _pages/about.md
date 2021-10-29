@@ -14,7 +14,7 @@ I am a fifth-year PhD student (2017 - present) of [Language Technology Institute
 I am generally interested in natural language processing and machine learning. My research pursues multi-purpose natural language generation in a controllable (interpretable), knowledgable, and sustainable way.
 
 
-## Publications
+<!-- ## Publications
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
 *Junxian He*\*, Chunting Zhou* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
 Preprint 2021. [[arxiv]](http://arxiv.org/abs/2110.04366)
@@ -86,4 +86,4 @@ ICDM 2016 WorkShop. [[arxiv]](https://arxiv.org/abs/1610.00219) [[demo]]({{ site
 ## Awards
 Baidu PhD Fellowship, class of 2020 (10 recipients worldwide)  
 Outstanding Undergraduate Thesis (top 1%)  
-National Scholarship (2014/2015/2016)
+National Scholarship (2014/2015/2016) -->
