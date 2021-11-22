@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am a fifth-year PhD student (2017 - present) of [Language Technology Institute](https://www.lti.cs.cmu.edu) in the School of Computer Science at [Carnegie Mellon University](https://www.cmu.edu). I am fortunate to be co-advised by Prof. [Graham Neubig](http://www.phontron.com) and Prof. [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received bachelor degree in Electronic Engineering from Shanghai Jiao Tong University.
+I am a final-year PhD student (2017 - present) of [Language Technology Institute](https://www.lti.cs.cmu.edu) in the School of Computer Science at [Carnegie Mellon University](https://www.cmu.edu). I am fortunate to be co-advised by Prof. [Graham Neubig](http://www.phontron.com) and Prof. [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received bachelor degree in Electronic Engineering from Shanghai Jiao Tong University. I received the Baidu PhD Fellowship in 2020. 
+
+I have interned at Facebook AI Research (2019), working with [Jiatao Gu](https://jiataogu.me) and [Marc'Aurelio Ranzato](https://ranzato.github.io); interned at Salesforce Research (2020), working with [Bryan McCann](https://bmccann.github.io); and visited Machine Learning Deparment of Carnegie Mellon University (2016), working with [Zhiting Hu](http://zhiting.ucsd.edu) and [Eric Xing](https://www.cs.cmu.edu/~epxing/). 
         
 I am generally interested in natural language processing and machine learning. My research covers (latent-variable) generative models, controllable text generation, efficient text generation, and non-parametric language models. Recently I am spending more time on non-parametric methods and their broader roles in NLP.
 
