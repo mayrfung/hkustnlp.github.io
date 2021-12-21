@@ -19,7 +19,7 @@ I am generally interested in natural language processing and machine learning. M
 ## Publications
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
 *Junxian He*\*, Chunting Zhou* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
-Preprint 2021. [[arxiv]](http://arxiv.org/abs/2110.04366)
+Preprint 2021. [[arxiv]](http://arxiv.org/abs/2110.04366) [[code]](https://github.com/jxhe/unify-parameter-efficient-tuning)
 
 **Efficient Nearest Neighbor Language Models**  
 *Junxian He*, Graham Neubig, Taylor Berg-Kirkpatrick  
