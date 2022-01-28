@@ -51,7 +51,7 @@ ICLR 2020. [[arxiv]](https://arxiv.org/abs/1909.13788) [[code]](https://github.c
 
 **A Probabilistic Formulation of Unsupervised Text Style Transfer**  
 *Junxian He*\*, Xinyi Wang* (equal contribution), Graham Neubig, Taylor Berg-Kirkpatrick  
-ICLR 2020 (<span style="color:red">spotlight, top 5%</span>). [[arxiv]](https://arxiv.org/abs/2002.03912) [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
+ICLR 2020 (<span style="color:red">spotlight</span>). [[arxiv]](https://arxiv.org/abs/2002.03912) [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
 
 **On the Sentence Embeddings from Pre-trained Language Models**  
 Bohan Li, Hao Zhou, *Junxian He*, Mingxuan Wang, Yiming Yang, Lei Li  
