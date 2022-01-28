@@ -19,7 +19,11 @@ I am generally interested in natural language processing and machine learning. M
 ## Publications
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
 *Junxian He*\*, Chunting Zhou* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
-Preprint 2021. [[arxiv]](http://arxiv.org/abs/2110.04366) [[code]](https://github.com/jxhe/unify-parameter-efficient-tuning)
+ICLR 2022 (<span style="color:red">spotlight, our review scores rank the 2nd among all submissions</span>). [[OpenReview]](https://openreview.net/forum?id=0RDcd5Axok) [[arxiv]](http://arxiv.org/abs/2110.04366) [[code]](https://github.com/jxhe/unify-parameter-efficient-tuning)
+
+**Capturing Structural Locality in Non-parametric Language Models**  
+Frank F. Xu, *Junxian He*, Graham Neubig, Vincent Josua Hellendoorn  
+ICLR 2022. [[arxiv]](https://arxiv.org/abs/2110.02870)
 
 **Efficient Nearest Neighbor Language Models**  
 *Junxian He*, Graham Neubig, Taylor Berg-Kirkpatrick  
@@ -47,7 +51,7 @@ ICLR 2020. [[arxiv]](https://arxiv.org/abs/1909.13788) [[code]](https://github.c
 
 **A Probabilistic Formulation of Unsupervised Text Style Transfer**  
 *Junxian He*\*, Xinyi Wang* (equal contribution), Graham Neubig, Taylor Berg-Kirkpatrick  
-ICLR 2020 (spotlight). [[arxiv]](https://arxiv.org/abs/2002.03912) [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
+ICLR 2020 (<span style="color:red">spotlight, top 5%</span>). [[arxiv]](https://arxiv.org/abs/2002.03912) [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
 
 **On the Sentence Embeddings from Pre-trained Language Models**  
 Bohan Li, Hao Zhou, *Junxian He*, Mingxuan Wang, Yiming Yang, Lei Li  
@@ -63,7 +67,7 @@ ACL 2019. [[arxiv]](https://arxiv.org/abs/1906.02656) [[code]](https://github.co
 
 **Texar: A modularized, versatile, and extensible toolkit for text generation**  
 Zhiting Hu, Haoran Shi, Bowen Tan, Wentao Wang, Zichao Yang, Tiancheng Zhao, *Junxian He*, Lianhui Qin, Di Wang, Xuezhe Ma, Zhengzhong Liu, Xiaodan Liang, Wangrong Zhu, Devendra Singh Sachan, Eric P. Xing  
-ACL 2019 (demo paper). Best demo paper nomination. [[arxiv]](https://arxiv.org/abs/1809.00794) [[GitHub]](https://github.com/asyml/texar)
+ACL 2019 (demo paper). <span style="color:red">Best demo paper nomination</span>. [[arxiv]](https://arxiv.org/abs/1809.00794) [[GitHub]](https://github.com/asyml/texar)
 
 **Lagging Inference Networks and Posterior Collapse in Variational Autoencoders**  
 *Junxian He*, Daniel Spokoyny, Graham Neubig, Taylor Berg-Kirkpatrick  
