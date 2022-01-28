@@ -19,7 +19,7 @@ I am generally interested in natural language processing and machine learning. M
 ## Publications
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
 *Junxian He*\*, Chunting Zhou* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
-ICLR 2022 (<span style="color:red">spotlight, our review scores rank the 2nd among all submissions</span>). [[OpenReview]](https://openreview.net/forum?id=0RDcd5Axok) [[arxiv]](http://arxiv.org/abs/2110.04366) [[code]](https://github.com/jxhe/unify-parameter-efficient-tuning)
+ICLR 2022 (<span style="color:red">spotlight</span>). [[OpenReview]](https://openreview.net/forum?id=0RDcd5Axok) [[arxiv]](http://arxiv.org/abs/2110.04366) [[code]](https://github.com/jxhe/unify-parameter-efficient-tuning)
 
 **Capturing Structural Locality in Non-parametric Language Models**  
 Frank F. Xu, *Junxian He*, Graham Neubig, Vincent Josua Hellendoorn  
