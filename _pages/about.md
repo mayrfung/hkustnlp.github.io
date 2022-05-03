@@ -13,10 +13,14 @@ I am a final-year PhD student (2017 - present) of [Language Technology Institute
 
 I have interned at Facebook AI Research (2019), working with [Jiatao Gu](https://jiataogu.me) and [Marc'Aurelio Ranzato](https://ranzato.github.io); interned at Salesforce Research (2020), working with [Bryan McCann](https://bmccann.github.io); and visited Machine Learning Deparment of Carnegie Mellon University (2016), working with [Zhiting Hu](http://zhiting.ucsd.edu) and [Eric Xing](https://www.cs.cmu.edu/~epxing/). 
         
-I am generally interested in natural language processing and machine learning. My research covers (latent-variable) generative models, controllable text generation, efficient text generation, and non-parametric language models. Recently I am spending more time on non-parametric methods and their broader roles in NLP.
+I am generally interested in natural language processing and machine learning. My research covers (latent-variable) generative models, controllable text generation, efficient text generation, and non-parametric language models. 
 
 
 ## Publications
+**Prompt Consistency for Zero-Shot Task Generalization**
+Chunting Zhou*, *Junxian He*\* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig
+Preprint 2022. [[arxiv]](https://arxiv.org/abs/2205.00049)
+
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
 *Junxian He*\*, Chunting Zhou* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
 ICLR 2022 (<span style="color:red">spotlight, 5%</span>). [[OpenReview]](https://openreview.net/forum?id=0RDcd5Axok) [[arxiv]](http://arxiv.org/abs/2110.04366) [[code]](https://github.com/jxhe/unify-parameter-efficient-tuning)
