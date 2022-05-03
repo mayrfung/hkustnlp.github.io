@@ -18,7 +18,7 @@ I am generally interested in natural language processing and machine learning. M
 
 ## Publications
 **Prompt Consistency for Zero-Shot Task Generalization**  
-Chunting Zhou*, *Junxian He*\* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig  
+Chunting Zhou* , *Junxian He*\* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig  
 Preprint 2022. [[arxiv]](https://arxiv.org/abs/2205.00049)
 
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
