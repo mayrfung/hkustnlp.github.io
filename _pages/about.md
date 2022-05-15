@@ -29,6 +29,10 @@ ICLR 2022 (<span style="color:red">spotlight, 5%</span>). [[OpenReview]](https:/
 Frank F. Xu, *Junxian He*, Graham Neubig, Vincent Josua Hellendoorn  
 ICLR 2022. [[arxiv]](https://arxiv.org/abs/2110.02870)
 
+**Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**  
+Uri Alon, Frank F. Xu, *Junxian He*, Sudipta Sengupta, Dan Roth, Graham Neubig  
+ICML 2022. [[arxiv]](https://arxiv.org/abs/2201.12431)
+
 **Efficient Nearest Neighbor Language Models**  
 *Junxian He*, Graham Neubig, Taylor Berg-Kirkpatrick  
 EMNLP 2021. [[arxiv]](https://arxiv.org/abs/2109.04212) [[code]](https://github.com/jxhe/efficient-knnlm)
