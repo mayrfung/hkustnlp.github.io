@@ -33,7 +33,7 @@ ICLR 2022. [[arxiv]](https://arxiv.org/abs/2110.02870)
 
 **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**  
 Uri Alon, Frank F. Xu, *Junxian He*, Sudipta Sengupta, Dan Roth, Graham Neubig  
-ICML 2022. [[arxiv]](https://arxiv.org/abs/2201.12431)
+ICML 2022. [[arxiv]](https://arxiv.org/abs/2201.12431) [[code]](https://github.com/neulab/retomaton)
 
 **Efficient Nearest Neighbor Language Models**  
 *Junxian He*, Graham Neubig, Taylor Berg-Kirkpatrick  
