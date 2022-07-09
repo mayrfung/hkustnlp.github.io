@@ -10,15 +10,28 @@ redirect_from:
 
 <!-- ## About Me -->
 I am joining [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) as a tenure-track assistant professor in 2022 Fall.
+I obtained my PhD in natural language processing from [Carnegie Mellon University](https://www.cmu.edu), [Language Technologies Institute](https://www.lti.cs.cmu.edu) in 2022, where I was co-advised by [Graham Neubig](http://www.phontron.com) and [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received bachelor degree in Electronic Engineering from Shanghai Jiao Tong University in 2017. I also spent some time at Facebook AI Research (2019) and Salesforce Research (2020).  
 
-I was a PhD student (2017 - 2022) of [Language Technologies Institute](https://www.lti.cs.cmu.edu) in the School of Computer Science at [Carnegie Mellon University](https://www.cmu.edu). During my PhD I was co-advised by Prof. [Graham Neubig](http://www.phontron.com) and Prof. [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received bachelor degree in Electronic Engineering from Shanghai Jiao Tong University in 2017. I received the Baidu PhD Fellowship in 2020. 
+<!-- I have interned at Facebook AI Research (2019), working with [Jiatao Gu](https://jiataogu.me) and [Marc'Aurelio Ranzato](https://ranzato.github.io); interned at Salesforce Research (2020), working with [Bryan McCann](https://bmccann.github.io); and visited Machine Learning Department of Carnegie Mellon University (2016), working with [Zhiting Hu](http://zhiting.ucsd.edu) and [Eric Xing](https://www.cs.cmu.edu/~epxing/).  -->
 
-I have interned at Facebook AI Research (2019), working with [Jiatao Gu](https://jiataogu.me) and [Marc'Aurelio Ranzato](https://ranzato.github.io); interned at Salesforce Research (2020), working with [Bryan McCann](https://bmccann.github.io); and visited Machine Learning Deparment of Carnegie Mellon University (2016), working with [Zhiting Hu](http://zhiting.ucsd.edu) and [Eric Xing](https://www.cs.cmu.edu/~epxing/). 
+### <span style="color:red">Prospective Students:</span>
+Please drop me an email with your CV if you are interested in working with me. Students at all levels (PhD/master/undergrad) are welcome. 
+
+# Research
         
-I am generally interested in natural language processing and machine learning. My research covers (latent-variable) generative models, controllable text generation, efficient text generation, and non-parametric language models. 
+I am generally interested in natural language processing and machine learning. Current interests include: 
+- Semi-parametric methods
+- Modular approaches in NLP
+- Efficient methods for large-scale models
+- Data-centric NLP
+- Neuro-symbolic approaches
+- Learning from small data
+- Controllable text generation
+
+<!-- My research covers (latent-variable) generative models, controllable text generation, efficient text generation, and non-parametric language models.  -->
 
 
-## Publications
+# Publications
 **Prompt Consistency for Zero-Shot Task Generalization**  
 Chunting Zhou* , *Junxian He*\* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig  
 Preprint 2022. [[arxiv]](https://arxiv.org/abs/2205.00049)
@@ -99,7 +112,7 @@ KDD 2017. [[arxiv]](https://arxiv.org/abs/1707.00206)
 *Junxian He*, Ying Huang, Changfeng Liu, Jiaming Shen, Yuting Jia, Xinbing Wang  
 ICDM 2016 WorkShop. [[arxiv]](https://arxiv.org/abs/1610.00219) [[demo]]({{ site.baseurl }}/demo/TopicAtlas/CiteseerX.html) 
 
-## Awards
+# Awards
 Baidu PhD Fellowship, class of 2020 (10 recipients worldwide)  
-Outstanding Undergraduate Thesis (top 1%)  
-National Scholarship (2014/2015/2016)
+Outstanding Undergraduate Thesis in SJTU (top 1%)  
+National Scholarship in China (2014/2015/2016)
