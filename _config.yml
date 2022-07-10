@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Junxian He"
+  name2            : "何俊贤"
   avatar           : "profile.jpg"
   bio              : "Assistant Professor at SJTU"
   location         : "Shanghai, China"
