@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 I am joining [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) as a tenure-track assistant professor in 2022 Fall.
-I obtained my PhD in natural language processing from [Carnegie Mellon University](https://www.cmu.edu), [Language Technologies Institute](https://www.lti.cs.cmu.edu) in 2022, where I was co-advised by [Graham Neubig](http://www.phontron.com) and [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received bachelor degree in Electronic Engineering from Shanghai Jiao Tong University in 2017. I also spent some time at Facebook AI Research (2019) and Salesforce Research (2020).  
+I obtained my PhD from [Carnegie Mellon University](https://www.cmu.edu), [Language Technologies Institute](https://www.lti.cs.cmu.edu) in the [School of Computer Science](https://www.cs.cmu.edu) in 2022, where I was co-advised by [Graham Neubig](http://www.phontron.com) and [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received the bachelor degree in Electronic Engineering from Shanghai Jiao Tong University in 2017. I also spent some time at Facebook AI Research (2019) and Salesforce Research (2020).  
 
 <!-- I have interned at Facebook AI Research (2019), working with [Jiatao Gu](https://jiataogu.me) and [Marc'Aurelio Ranzato](https://ranzato.github.io); interned at Salesforce Research (2020), working with [Bryan McCann](https://bmccann.github.io); and visited Machine Learning Department of Carnegie Mellon University (2016), working with [Zhiting Hu](http://zhiting.ucsd.edu) and [Eric Xing](https://www.cs.cmu.edu/~epxing/).  -->
 
@@ -20,7 +20,7 @@ Please drop me an email with your CV if you are interested in working with me. S
 # Research
         
 I am generally interested in natural language processing and machine learning. Current interests include: 
-- Semi-parametric methods
+- Semi-parametric methods (retrieval-augmented)
 - Modular approaches in NLP
 - Efficient methods for large-scale models
 - Data-centric NLP
@@ -111,6 +111,10 @@ KDD 2017. [[arxiv]](https://arxiv.org/abs/1707.00206)
 **Text Network Exploration via Heterogeneous Web of Topics**  
 *Junxian He*, Ying Huang, Changfeng Liu, Jiaming Shen, Yuting Jia, Xinbing Wang  
 ICDM 2016 WorkShop. [[arxiv]](https://arxiv.org/abs/1610.00219) [[demo]]({{ site.baseurl }}/demo/TopicAtlas/CiteseerX.html) 
+
+# Service
+Area Chair: EMNLP (2022)    
+Reviewer: ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, ARR, TMLR
 
 # Awards
 Baidu PhD Fellowship, class of 2020 (10 recipients worldwide)  
