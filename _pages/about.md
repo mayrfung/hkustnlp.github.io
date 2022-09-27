@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am joining [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) as a tenure-track assistant professor in 2022 Fall.
+I am a tenure-track assistant professor in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/).
 I obtained my PhD from [Carnegie Mellon University](https://www.cmu.edu), [Language Technologies Institute](https://www.lti.cs.cmu.edu) in the [School of Computer Science](https://www.cs.cmu.edu) in 2022, where I was co-advised by [Graham Neubig](http://www.phontron.com) and [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received the bachelor degree in Electronic Engineering from Shanghai Jiao Tong University in 2017. I also spent some time at Facebook AI Research (2019) and Salesforce Research (2020).  
 
 <!-- I have interned at Facebook AI Research (2019), working with [Jiatao Gu](https://jiataogu.me) and [Marc'Aurelio Ranzato](https://ranzato.github.io); interned at Salesforce Research (2020), working with [Bryan McCann](https://bmccann.github.io); and visited Machine Learning Department of Carnegie Mellon University (2016), working with [Zhiting Hu](http://zhiting.ucsd.edu) and [Eric Xing](https://www.cs.cmu.edu/~epxing/).  -->
@@ -32,6 +32,10 @@ I am generally interested in natural language processing and machine learning. C
 
 
 # Publications
+**Mega: Moving Average Equipped Gated Attention**
+Xuezhe Ma*, Chunting Zhou*  (equal contribution), Xiang Kong, *Junxian He*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer
+Preprint 2022. [[arxiv]](https://arxiv.org/abs/2209.10655)
+
 **Prompt Consistency for Zero-Shot Task Generalization**  
 Chunting Zhou* , *Junxian He*\* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig  
 Preprint 2022. [[arxiv]](https://arxiv.org/abs/2205.00049)
