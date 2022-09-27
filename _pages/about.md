@@ -32,8 +32,8 @@ I am generally interested in natural language processing and machine learning. C
 
 
 # Publications
-**Mega: Moving Average Equipped Gated Attention**
-Xuezhe Ma*, Chunting Zhou*  (equal contribution), Xiang Kong, *Junxian He*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer
+**Mega: Moving Average Equipped Gated Attention**  
+Xuezhe Ma*, Chunting Zhou*  (equal contribution), Xiang Kong, *Junxian He*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer  
 Preprint 2022. [[arxiv]](https://arxiv.org/abs/2209.10655)
 
 **Prompt Consistency for Zero-Shot Task Generalization**  
