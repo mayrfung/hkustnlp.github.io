@@ -36,9 +36,13 @@ I am generally interested in natural language processing and machine learning. C
 Xuezhe Ma\*, Chunting Zhou\*  (equal contribution), Xiang Kong, *Junxian He*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer  
 Preprint 2022. [[arxiv]](https://arxiv.org/abs/2209.10655)
 
+**CTRLsum: Towards Generic Controllable Text Summarization**  
+*Junxian He*, Wojciech Kryściński, Bryan McCann, Nazneen Rajani, Caiming Xiong  
+EMNLP 2022. [[arxiv]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/salesforce/ctrl-sum) [[huggingface demo]](https://huggingface.co/spaces/akhaliq/ctrl-sum) [[streamlit demo]](https://share.streamlit.io/jxhe/ctrlsum-demo/ctrlsum_demo.py)
+
 **Prompt Consistency for Zero-Shot Task Generalization**  
 Chunting Zhou* , *Junxian He*\* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig  
-Preprint 2022. [[arxiv]](https://arxiv.org/abs/2205.00049)
+EMNLP 2022 Findings. [[arxiv]](https://arxiv.org/abs/2205.00049)
 
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
 *Junxian He*\*, Chunting Zhou* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
@@ -63,10 +67,6 @@ EACL 2021. [[arxiv]](https://arxiv.org/abs/1909.13151)
 **Dependency Induction Through the Lens of Visual Perception**  
 Ruisi Su, Shruti Rijhwani, Hao Zhu, *Junxian He*, Xinyu Wang, Yonatan Bisk, Graham Neubig  
 CoNLL 2021. [[arxiv]](https://arxiv.org/abs/2109.09790) [[code]](https://github.com/ruisi-su/concrete_dep)
-
-**CTRLsum: Towards Generic Controllable Text Summarization**  
-*Junxian He*, Wojciech Kryściński, Bryan McCann, Nazneen Rajani, Caiming Xiong  
-Preprint 2020. [[arxiv]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/salesforce/ctrl-sum) [[huggingface demo]](https://huggingface.co/spaces/akhaliq/ctrl-sum) [[streamlit demo]](https://share.streamlit.io/jxhe/ctrlsum-demo/ctrlsum_demo.py)
 
 **Learning Sparse Protoypes for Text Generation**  
 *Junxian He*, Taylor Berg-Kirkpatrick, Graham Neubig  
