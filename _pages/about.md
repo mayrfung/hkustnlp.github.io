@@ -34,7 +34,7 @@ I am generally interested in natural language processing and machine learning. C
 # Publications
 **Mega: Moving Average Equipped Gated Attention**  
 Xuezhe Ma\*, Chunting Zhou\*  (equal contribution), Xiang Kong, *Junxian He*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer  
-Preprint 2022. [[arxiv]](https://arxiv.org/abs/2209.10655)
+ICLR 2023. [[arxiv]](https://arxiv.org/abs/2209.10655)
 
 **CTRLsum: Towards Generic Controllable Text Summarization**  
 *Junxian He*, Wojciech Kryściński, Bryan McCann, Nazneen Rajani, Caiming Xiong  
@@ -117,7 +117,7 @@ KDD 2017. [[arxiv]](https://arxiv.org/abs/1707.00206)
 ICDM 2016 WorkShop. [[arxiv]](https://arxiv.org/abs/1610.00219) [[demo]]({{ site.baseurl }}/demo/TopicAtlas/CiteseerX.html) 
 
 # Service
-Area Chair: EMNLP (2022)    
+Area Chair: EMNLP22, ACL23    
 Reviewer: ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, ARR, TMLR
 
 # Awards
