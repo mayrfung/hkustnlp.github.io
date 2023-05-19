@@ -35,8 +35,8 @@ I am generally interested in natural language processing and machine learning. C
 $^\dagger$ denotes corresponding author/main advisor
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
-Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, *Junxian He*$^\dagger$
-Preprint 2023. [[arxiv]](https://arxiv.org/abs/2305.08322) [[code]](https://github.com/SJTU-LIT/ceval) [[website]](https://cevalbenchmark.com)
+Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, *Junxian He*$^\dagger$  
+Preprint 2023. [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/SJTU-LIT/ceval) [[website]](https://cevalbenchmark.com)
 
 **Mega: Moving Average Equipped Gated Attention**  
 Xuezhe Ma\*, Chunting Zhou\*  (equal contribution), Xiang Kong, *Junxian He*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer  
