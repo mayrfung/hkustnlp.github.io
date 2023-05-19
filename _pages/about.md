@@ -32,14 +32,14 @@ I am generally interested in natural language processing and machine learning. C
 
 
 # Publications
-$^\dagger$ denotes corresponding author/main advisor
+\* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
-Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, *Junxian He*$^\dagger$  
+Yuzhen Huang\*, Yuzhuo Bai\*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, *Junxian He*$^\dagger$  
 Preprint 2023. [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/SJTU-LIT/ceval) [[website]](https://cevalbenchmark.com)
 
 **Mega: Moving Average Equipped Gated Attention**  
-Xuezhe Ma\*, Chunting Zhou\*  (equal contribution), Xiang Kong, *Junxian He*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer  
+Xuezhe Ma\*, Chunting Zhou\*, Xiang Kong, *Junxian He*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer  
 ICLR 2023. [[arxiv]](https://arxiv.org/abs/2209.10655)
 
 **CTRLsum: Towards Generic Controllable Text Summarization**  
@@ -47,11 +47,11 @@ ICLR 2023. [[arxiv]](https://arxiv.org/abs/2209.10655)
 EMNLP 2022. [[arxiv]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/salesforce/ctrl-sum) [[huggingface demo]](https://huggingface.co/spaces/akhaliq/ctrl-sum) [[streamlit demo]](https://share.streamlit.io/jxhe/ctrlsum-demo/ctrlsum_demo.py)
 
 **Prompt Consistency for Zero-Shot Task Generalization**  
-Chunting Zhou* , *Junxian He*\* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig  
+Chunting Zhou* , *Junxian He*\*, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig  
 EMNLP 2022 Findings. [[arxiv]](https://arxiv.org/abs/2205.00049)
 
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
-*Junxian He*\*, Chunting Zhou* (equal contribution), Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
+*Junxian He*\*, Chunting Zhou*, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
 ICLR 2022 (<span style="color:red">spotlight, 5%</span>). [[OpenReview]](https://openreview.net/forum?id=0RDcd5Axok) [[arxiv]](http://arxiv.org/abs/2110.04366) [[code]](https://github.com/jxhe/unify-parameter-efficient-tuning)
 
 **Capturing Structural Locality in Non-parametric Language Models**  
@@ -79,11 +79,11 @@ CoNLL 2021. [[arxiv]](https://arxiv.org/abs/2109.09790) [[code]](https://github.
 NeurIPS 2020. [[arxiv]](https://arxiv.org/abs/2006.16336) [[code]](https://github.com/jxhe/sparse-text-prototype)
 
 **Revisiting Self-Training for Neural Sequence Generation**  
-*Junxian He*\*, Jiatao Gu* (equal contribution), Jiajun Shen, Marc'Aurelio Ranzato  
+*Junxian He*\*, Jiatao Gu*, Jiajun Shen, Marc'Aurelio Ranzato  
 ICLR 2020. [[arxiv]](https://arxiv.org/abs/1909.13788) [[code]](https://github.com/jxhe/self-training-text-generation)
 
 **A Probabilistic Formulation of Unsupervised Text Style Transfer**  
-*Junxian He*\*, Xinyi Wang* (equal contribution), Graham Neubig, Taylor Berg-Kirkpatrick  
+*Junxian He*\*, Xinyi Wang*, Graham Neubig, Taylor Berg-Kirkpatrick  
 ICLR 2020 (<span style="color:red">spotlight, 5%</span>). [[arxiv]](https://arxiv.org/abs/2002.03912) [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
 
 **On the Sentence Embeddings from Pre-trained Language Models**  
@@ -91,7 +91,7 @@ Bohan Li, Hao Zhou, *Junxian He*, Mingxuan Wang, Yiming Yang, Lei Li
 EMNLP 2020. [[arxiv]](https://arxiv.org/abs/2011.05864) [[code]](https://github.com/bohanli/BERT-flow)
 
 **A Surprisingly Effective Fix for Deep Latent Variable Modeling of Text**  
-Bohan Li\*, *Junxian He*\* (equal contribution), Graham Neubig, Taylor Berg-Kirkpatrick, Yiming Yang  
+Bohan Li\*, *Junxian He*\*, Graham Neubig, Taylor Berg-Kirkpatrick, Yiming Yang  
 EMNLP 2019 (short paper). [[arxiv]](https://arxiv.org/abs/1909.00868) [[code]](https://github.com/bohanli/vae-pretraining-encoder)
 
 **Cross-Lingual Syntactic Transfer through Unsupervised Adaptation of Invertible Projections**  
@@ -115,7 +115,7 @@ Pengcheng Yin, Chunting Zhou, *Junxian He*, Graham Neubig
 ACL 2018. [[arxiv]](https://arxiv.org/abs/1806.07832)
 
 **Efficient Correlated Topic Modeling with Topic Embedding**  
-*Junxian He*\*, Zhiting Hu* (equal contribution), Taylor Berg-Kirkpatrick, Ying Huang, Eric Xing  
+*Junxian He*\*, Zhiting Hu*, Taylor Berg-Kirkpatrick, Ying Huang, Eric Xing  
 KDD 2017. [[arxiv]](https://arxiv.org/abs/1707.00206)
 
 **Text Network Exploration via Heterogeneous Web of Topics**  
