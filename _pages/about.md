@@ -17,7 +17,7 @@ I obtained my PhD from [Carnegie Mellon University](https://www.cmu.edu), [Langu
 <!-- I have interned at Facebook AI Research (2019), working with [Jiatao Gu](https://jiataogu.me) and [Marc'Aurelio Ranzato](https://ranzato.github.io); interned at Salesforce Research (2020), working with [Bryan McCann](https://bmccann.github.io); and visited Machine Learning Department of Carnegie Mellon University (2016), working with [Zhiting Hu](http://zhiting.ucsd.edu) and [Eric Xing](https://www.cs.cmu.edu/~epxing/).  -->
 
 ### <span style="color:red">Prospective Students:</span>
-I am actively looking for strong and self-motivated PhD/Mphil/RA students. I have multiple PhD/Mphil openings starting in 2024 Fall at HKUST, as well as RA positions starting anytime. If you are interested, please drop me an email with your CV (the email subject line should include "Prospective PhD/Mphil/RA Student"). For 2024 Fall PhD/Mphil applicants, I encourage you to reach out as soon as possible to ensure consideration. I may not be able to respond to all emails, sorry. 
+I am always actively looking for strong and self-motivated students to join us! I have multiple PhD/Mphil openings starting in 2024 Fall at HKUST, as well as RA positions starting anytime. If you are interested, please drop me an email with your CV (the email subject line should include "Prospective PhD/Mphil/RA Student"). For 2024 Fall PhD/Mphil applicants, I encourage you to reach out as soon as possible to ensure consideration. I may not be able to respond to all emails, sorry. 
 
 # Research
         
