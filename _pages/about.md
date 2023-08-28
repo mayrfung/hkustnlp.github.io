@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am joining [Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk) as 
-a tenure-track assistant professor in 2023 Fall. 
+I am a tenure-track assistant professor in [The Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk). 
 <!-- in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/). -->
 I obtained my PhD from [Carnegie Mellon University](https://www.cmu.edu), [Language Technologies Institute](https://www.lti.cs.cmu.edu) in the [School of Computer Science](https://www.cs.cmu.edu) in 2022, where I was co-advised by [Graham Neubig](http://www.phontron.com) and [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received the bachelor degree in Electronic Engineering from Shanghai Jiao Tong University in 2017. I also spent some time at Facebook AI Research (2019) and Salesforce Research (2020).  
 
