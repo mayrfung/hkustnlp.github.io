@@ -1,0 +1,46 @@
+---
+layout: default
+title: "Group"
+permalink: /group/
+author_profile: true
+---
+
+<!-- Main -->
+
+<div id="main">
+  <div id="content" class="container">
+    <section>
+      <!-- <header>
+        <h2>Current Members</h2>
+      </header> -->
+    <!-- I am fortunate to work with the students in our group. -->
+{% for group in site.data.people %}
+  <div class ="row" style="margin-top:20px">
+    <div class="col-md-7" >
+    <h3>{{group.group}}</h3>
+    </div>
+  </div>
+  
+  <div>
+    {% for member in group.people %}
+
+      <div class="member-card">
+        <div>
+        <a href="{{member.url}}">
+          <img class="img-thumbnail" width="220", height="220", src="{% if member.githubid  %}https://avatars2.githubusercontent.com/u/{{member.githubid}}?v=3&s=400{% else %}{{member.pic}}{% endif %}">
+        </a>
+        </div>
+        <div style="margin-bottom:15px">
+          <center><b>{{member.name}}</b><br>{{member.description}}</br></center></div> 
+      </div>
+
+    {% endfor %}
+  </div>
+{% endfor %}
+
+<!-- </ul> -->
+
+</section>
+</div>
+</div>
+<!-- /Main -->
