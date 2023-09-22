@@ -47,11 +47,11 @@ NeurIPS 2023. [[arxiv]](https://arxiv.org/abs/2305.00633) [[code]](https://githu
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
 Yuzhen Huang\*, Yuzhuo Bai\*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, *<ins>Junxian He</ins>*  
-NeurIPS 2023 Datasets and Benchmarks track. [[arxiv]](https://arxiv.org/abs/2305.08322) [[Github]](https://github.com/SJTU-LIT/ceval) [[website]](https://cevalbenchmark.com) [[Dataset]](https://huggingface.co/datasets/ceval/ceval-exam)
+NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/2305.08322) [[Github]](https://github.com/SJTU-LIT/ceval) [[website]](https://cevalbenchmark.com) [[Dataset]](https://huggingface.co/datasets/ceval/ceval-exam)
 
 **FELM: Benchmarking Factuality Evaluation of Large Language Models**  
 Shiqi Chen, Yiran Zhao, Jinghan Zhang, I-Chun Chern, Siyang Gao, Pengfei Liu, *<ins>Junxian He</ins>*  
-NeurIPS 2023 Datasets and Benchmarks track.
+NeurIPS 2023 (Datasets and Benchmarks track).
 
 **Mega: Moving Average Equipped Gated Attention**  
 Xuezhe Ma\*, Chunting Zhou\*, Xiang Kong, *<ins>Junxian He</ins>*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer  
