@@ -34,98 +34,111 @@ I am generally interested in natural language processing and machine learning. C
 
 # Publications
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=BIFGeoUAAAAJ&hl=en&authuser=1).  
-\* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
+\* denotes co-first authors
+<!-- $^\dagger$ denotes corresponding author/main advisor -->
+
+**Composing Parameter-Efficient Modules with Arithmetic Operations**  
+Jinghan Zhang, Shiqi Chen, Junteng Liu, *<ins>Junxian He</ins>*  
+NeurIPS 2023. [[arxiv]](https://arxiv.org/abs/2306.14870) [[code]](https://github.com/SJTU-LIT/PEM_composition)
+
+**Decomposition Enhances Reasoning via Self-Evaluation Guided Decoding**  
+Yuxi Xie, Kenji Kawaguchi, Yiran Zhao, Xu Zhao, Min-Yen Kan, *<ins>Junxian He</ins>*, Qizhe Xie  
+NeurIPS 2023. [[arxiv]](https://arxiv.org/abs/2305.00633) [[code]](https://github.com/YuxiXie/SelfEval-Guided-Decoding)
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
-Yuzhen Huang\*, Yuzhuo Bai\*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, *Junxian He*$^\dagger$  
-Preprint 2023. [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/SJTU-LIT/ceval) [[website]](https://cevalbenchmark.com)
+Yuzhen Huang\*, Yuzhuo Bai\*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, *<ins>Junxian He</ins>*  
+NeurIPS 2023 Datasets and Benchmarks track. [[arxiv]](https://arxiv.org/abs/2305.08322) [[Github]](https://github.com/SJTU-LIT/ceval) [[website]](https://cevalbenchmark.com) [[Dataset]](https://huggingface.co/datasets/ceval/ceval-exam)
+
+**FELM: Benchmarking Factuality Evaluation of Large Language Models**  
+Shiqi Chen, Yiran Zhao, Jinghan Zhang, I-Chun Chern, Siyang Gao, Pengfei Liu, *<ins>Junxian He</ins>*  
+NeurIPS 2023 Datasets and Benchmarks track.
 
 **Mega: Moving Average Equipped Gated Attention**  
-Xuezhe Ma\*, Chunting Zhou\*, Xiang Kong, *Junxian He*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer  
+Xuezhe Ma\*, Chunting Zhou\*, Xiang Kong, *<ins>Junxian He</ins>*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer  
 ICLR 2023. [[arxiv]](https://arxiv.org/abs/2209.10655)
 
 **CTRLsum: Towards Generic Controllable Text Summarization**  
-*Junxian He*, Wojciech Kryściński, Bryan McCann, Nazneen Rajani, Caiming Xiong  
+*<ins>Junxian He</ins>*, Wojciech Kryściński, Bryan McCann, Nazneen Rajani, Caiming Xiong  
 EMNLP 2022. [[arxiv]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/salesforce/ctrl-sum) [[huggingface demo]](https://huggingface.co/spaces/akhaliq/ctrl-sum) [[streamlit demo]](https://share.streamlit.io/jxhe/ctrlsum-demo/ctrlsum_demo.py)
 
 **Prompt Consistency for Zero-Shot Task Generalization**  
-Chunting Zhou* , *Junxian He*\*, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig  
+Chunting Zhou* , *<ins>Junxian He</ins>*\*, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig  
 EMNLP 2022 Findings. [[arxiv]](https://arxiv.org/abs/2205.00049)
 
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
-*Junxian He*\*, Chunting Zhou*, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
+*<ins>Junxian He</ins>*\*, Chunting Zhou*, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
 ICLR 2022 (<span style="color:red">spotlight, 5%</span>). [[OpenReview]](https://openreview.net/forum?id=0RDcd5Axok) [[arxiv]](http://arxiv.org/abs/2110.04366) [[code]](https://github.com/jxhe/unify-parameter-efficient-tuning)
 
 **Capturing Structural Locality in Non-parametric Language Models**  
-Frank F. Xu, *Junxian He*, Graham Neubig, Vincent Josua Hellendoorn  
+Frank F. Xu, *<ins>Junxian He</ins>*, Graham Neubig, Vincent Josua Hellendoorn  
 ICLR 2022. [[arxiv]](https://arxiv.org/abs/2110.02870)
 
 **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**  
-Uri Alon, Frank F. Xu, *Junxian He*, Sudipta Sengupta, Dan Roth, Graham Neubig  
+Uri Alon, Frank F. Xu, *<ins>Junxian He</ins>*, Sudipta Sengupta, Dan Roth, Graham Neubig  
 ICML 2022. [[arxiv]](https://arxiv.org/abs/2201.12431) [[code]](https://github.com/neulab/retomaton)
 
 **Efficient Nearest Neighbor Language Models**  
-*Junxian He*, Graham Neubig, Taylor Berg-Kirkpatrick  
+*<ins>Junxian He</ins>*, Graham Neubig, Taylor Berg-Kirkpatrick  
 EMNLP 2021. [[arxiv]](https://arxiv.org/abs/2109.04212) [[code]](https://github.com/jxhe/efficient-knnlm)
 
 **The Source-Target Domain Mismatch Problem in Machine Translation**  
-Jiajun Shen, Peng-Jen Chen, Matthew Le, *Junxian He*, Jiatao Gu, Myle Ott, Michael Auli, Marc'Aurelio Ranzato  
+Jiajun Shen, Peng-Jen Chen, Matthew Le, *<ins>Junxian He</ins>*, Jiatao Gu, Myle Ott, Michael Auli, Marc'Aurelio Ranzato  
 EACL 2021. [[arxiv]](https://arxiv.org/abs/1909.13151)
 
 **Dependency Induction Through the Lens of Visual Perception**  
-Ruisi Su, Shruti Rijhwani, Hao Zhu, *Junxian He*, Xinyu Wang, Yonatan Bisk, Graham Neubig  
+Ruisi Su, Shruti Rijhwani, Hao Zhu, *<ins>Junxian He</ins>*, Xinyu Wang, Yonatan Bisk, Graham Neubig  
 CoNLL 2021. [[arxiv]](https://arxiv.org/abs/2109.09790) [[code]](https://github.com/ruisi-su/concrete_dep)
 
 **Learning Sparse Protoypes for Text Generation**  
-*Junxian He*, Taylor Berg-Kirkpatrick, Graham Neubig  
+*<ins>Junxian He</ins>*, Taylor Berg-Kirkpatrick, Graham Neubig  
 NeurIPS 2020. [[arxiv]](https://arxiv.org/abs/2006.16336) [[code]](https://github.com/jxhe/sparse-text-prototype)
 
 **Revisiting Self-Training for Neural Sequence Generation**  
-*Junxian He*\*, Jiatao Gu*, Jiajun Shen, Marc'Aurelio Ranzato  
+*<ins>Junxian He</ins>*\*, Jiatao Gu*, Jiajun Shen, Marc'Aurelio Ranzato  
 ICLR 2020. [[arxiv]](https://arxiv.org/abs/1909.13788) [[code]](https://github.com/jxhe/self-training-text-generation)
 
 **A Probabilistic Formulation of Unsupervised Text Style Transfer**  
-*Junxian He*\*, Xinyi Wang*, Graham Neubig, Taylor Berg-Kirkpatrick  
+*<ins>Junxian He</ins>*\*, Xinyi Wang*, Graham Neubig, Taylor Berg-Kirkpatrick  
 ICLR 2020 (<span style="color:red">spotlight, 5%</span>). [[arxiv]](https://arxiv.org/abs/2002.03912) [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
 
 **On the Sentence Embeddings from Pre-trained Language Models**  
-Bohan Li, Hao Zhou, *Junxian He*, Mingxuan Wang, Yiming Yang, Lei Li  
+Bohan Li, Hao Zhou, *<ins>Junxian He</ins>*, Mingxuan Wang, Yiming Yang, Lei Li  
 EMNLP 2020. [[arxiv]](https://arxiv.org/abs/2011.05864) [[code]](https://github.com/bohanli/BERT-flow)
 
 **A Surprisingly Effective Fix for Deep Latent Variable Modeling of Text**  
-Bohan Li\*, *Junxian He*\*, Graham Neubig, Taylor Berg-Kirkpatrick, Yiming Yang  
+Bohan Li\*, *<ins>Junxian He</ins>*\*, Graham Neubig, Taylor Berg-Kirkpatrick, Yiming Yang  
 EMNLP 2019 (short paper). [[arxiv]](https://arxiv.org/abs/1909.00868) [[code]](https://github.com/bohanli/vae-pretraining-encoder)
 
 **Cross-Lingual Syntactic Transfer through Unsupervised Adaptation of Invertible Projections**  
-*Junxian He*, Zhisong Zhang, Taylor Berg-Kirkpatrick, Graham Neubig  
+*<ins>Junxian He</ins>*, Zhisong Zhang, Taylor Berg-Kirkpatrick, Graham Neubig  
 ACL 2019. [[arxiv]](https://arxiv.org/abs/1906.02656) [[code]](https://github.com/jxhe/cross-lingual-struct-flow)
 
 **Texar: A modularized, versatile, and extensible toolkit for text generation**  
-Zhiting Hu, Haoran Shi, Bowen Tan, Wentao Wang, Zichao Yang, Tiancheng Zhao, *Junxian He*, Lianhui Qin, Di Wang, Xuezhe Ma, Zhengzhong Liu, Xiaodan Liang, Wangrong Zhu, Devendra Singh Sachan, Eric P. Xing  
+Zhiting Hu, Haoran Shi, Bowen Tan, Wentao Wang, Zichao Yang, Tiancheng Zhao, *<ins>Junxian He</ins>*, Lianhui Qin, Di Wang, Xuezhe Ma, Zhengzhong Liu, Xiaodan Liang, Wangrong Zhu, Devendra Singh Sachan, Eric P. Xing  
 ACL 2019 (demo paper). <span style="color:red">Best demo paper nomination</span>. [[arxiv]](https://arxiv.org/abs/1809.00794) [[GitHub]](https://github.com/asyml/texar)
 
 **Lagging Inference Networks and Posterior Collapse in Variational Autoencoders**  
-*Junxian He*, Daniel Spokoyny, Graham Neubig, Taylor Berg-Kirkpatrick  
+*<ins>Junxian He</ins>*, Daniel Spokoyny, Graham Neubig, Taylor Berg-Kirkpatrick  
 ICLR 2019. [[arxiv]](http://arxiv.org/abs/1901.05534) [[code]](https://github.com/jxhe/vae-lagging-encoder)
 
 **Unsupervised Learning of Syntactic Structure with Invertible Neural Projections**   
-*Junxian He*, Graham Neubig, Taylor Berg-Kirkpatrick  
+*<ins>Junxian He</ins>*, Graham Neubig, Taylor Berg-Kirkpatrick  
 EMNLP 2018. [[arxiv]](https://arxiv.org/abs/1808.09111) [[code]](https://github.com/jxhe/struct-learning-with-flow)
 
 **StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing**  
-Pengcheng Yin, Chunting Zhou, *Junxian He*, Graham Neubig  
+Pengcheng Yin, Chunting Zhou, *<ins>Junxian He</ins>*, Graham Neubig  
 ACL 2018. [[arxiv]](https://arxiv.org/abs/1806.07832)
 
 **Efficient Correlated Topic Modeling with Topic Embedding**  
-*Junxian He*\*, Zhiting Hu*, Taylor Berg-Kirkpatrick, Ying Huang, Eric Xing  
+*<ins>Junxian He</ins>*\*, Zhiting Hu*, Taylor Berg-Kirkpatrick, Ying Huang, Eric Xing  
 KDD 2017. [[arxiv]](https://arxiv.org/abs/1707.00206)
 
 **Text Network Exploration via Heterogeneous Web of Topics**  
-*Junxian He*, Ying Huang, Changfeng Liu, Jiaming Shen, Yuting Jia, Xinbing Wang  
+*<ins>Junxian He</ins>*, Ying Huang, Changfeng Liu, Jiaming Shen, Yuting Jia, Xinbing Wang  
 ICDM 2016 WorkShop. [[arxiv]](https://arxiv.org/abs/1610.00219) [[demo]]({{ site.baseurl }}/demo/TopicAtlas/CiteseerX.html) 
 
 # Service
-Area Chair: EMNLP22, ACL23    
+Area Chair: EMNLP22, ACL23, EMNLP23    
 Reviewer: ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, ARR, TMLR
 
 # Awards
