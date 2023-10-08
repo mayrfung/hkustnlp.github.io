@@ -33,7 +33,7 @@ I am generally interested in natural language processing and machine learning. C
 
 
 # Publications
-Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=BIFGeoUAAAAJ&hl=en&authuser=1).  
+Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=BIFGeoUAAAAJ&hl=en).  
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
