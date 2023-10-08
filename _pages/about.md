@@ -41,7 +41,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 Junlei Zhang, Zhenzhong Lan, *<ins>Junxian He</ins>*  
 EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2305.15077)  [[code]](https://github.com/hkust-nlp/SynCSE)
 
-**Simple Temporal Adaptation to Changing Label Sets: Hashtag Prediction via Dense KNN**
+**Simple Temporal Adaptation to Changing Label Sets: Hashtag Prediction via Dense KNN**  
 Fatemehsadat Mireshghallah, Nikolai Vogler, *<ins>Junxian He</ins>*, Omar Florez, Ahmed El-Kishky, Taylor Berg-Kirkpatrick  
 EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2209.05706)
 
