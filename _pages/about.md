@@ -37,6 +37,18 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
+**Contrastive Learning of Sentence Embeddings from Scratch**  
+Junlei Zhang, Zhenzhong Lan, *<ins>Junxian He</ins>*  
+EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2305.15077)  [[code]](https://github.com/hkust-nlp/SynCSE)
+
+**Simple Temporal Adaptation to Changing Label Sets: Hashtag Prediction via Dense KNN**
+Fatemehsadat Mireshghallah, Nikolai Vogler, *<ins>Junxian He</ins>*, Omar Florez, Ahmed El-Kishky, Taylor Berg-Kirkpatrick  
+EMNLP 2023. [[arxiv]](https://arxiv.org/abs/2209.05706)
+
+**Automatic Model Selection with Large Language Models for Reasoning**  
+Xu Zhao, Yuxi Xie, Kenji Kawaguchi, *<ins>Junxian He</ins>*, Qizhe Xie  
+EMNLP 2023 Findings. [[arxiv]](https://arxiv.org/abs/2305.14333) [[code]](https://github.com/XuZhao0/Model-Selection-Reasoning)
+
 **Composing Parameter-Efficient Modules with Arithmetic Operations**  
 Jinghan Zhang, Shiqi Chen, Junteng Liu, *<ins>Junxian He</ins>*  
 NeurIPS 2023. [[arxiv]](https://arxiv.org/abs/2306.14870) [[code]](https://github.com/hkust-nlp/PEM_composition)
