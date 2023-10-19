@@ -38,6 +38,10 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
+**K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization**  
+Cheng Deng, Tianhang Zhang, Zhongmou He, Yi Xu, Qiyuan Chen, Yuanyuan Shi, Luoyi Fu, Weinan Zhang, Xinbing Wang, Chenghu Zhou, Zhouhan Lin, *<ins>Junxian He</ins>*  
+WSDM 2024. [[arxiv]](https://arxiv.org/abs/2306.05064) [[github]](https://github.com/davendw49/k2)
+
 **Composing Parameter-Efficient Modules with Arithmetic Operations**  
 Jinghan Zhang, Shiqi Chen, Junteng Liu, *<ins>Junxian He</ins>*  
 NeurIPS 2023. [[arxiv]](https://arxiv.org/abs/2306.14870) [[code]](https://github.com/hkust-nlp/PEM_composition)
