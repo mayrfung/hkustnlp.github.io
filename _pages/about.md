@@ -39,7 +39,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
 **What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning**  
-Wei Liu\*,, Weihao Zeng\*,, Keqing He, Yong Jiang, *<ins>Junxian He</ins>*  
+Wei Liu\*, Weihao Zeng\*, Keqing He, Yong Jiang, *<ins>Junxian He</ins>*  
 ICLR 2024. [[arxiv]](https://arxiv.org/abs/2312.15685) [[github]](https://github.com/hkust-nlp/deita)
 
 **Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs**  
