@@ -43,7 +43,7 @@ Wei Liu, Weihao Zeng, Keqing He, Yong Jiang, *<ins>Junxian He</ins>*
 ICLR 2024. [[arxiv]](https://arxiv.org/abs/2312.15685) [[github]](https://github.com/hkust-nlp/deita)
 
 **Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs**  
-Miao Xiong, Zhiyuan Hu, Xinyang Lu, YIFEI LI, Jie Fu, *<ins>Junxian He</ins>*, Bryan Hooi  
+Miao Xiong, Zhiyuan Hu, Xinyang Lu, Yifei Li, Jie Fu, *<ins>Junxian He</ins>*, Bryan Hooi  
 ICLR 2024. [[arxiv]](https://arxiv.org/abs/2306.13063)
 
 **K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization**  
