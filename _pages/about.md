@@ -87,7 +87,7 @@ ICLR 2023. [[arxiv]](https://arxiv.org/abs/2209.10655)
 EMNLP 2022. [[arxiv]](https://arxiv.org/abs/2012.04281) [[code]](https://github.com/salesforce/ctrl-sum) [[huggingface demo]](https://huggingface.co/spaces/akhaliq/ctrl-sum) [[streamlit demo]](https://share.streamlit.io/jxhe/ctrlsum-demo/ctrlsum_demo.py)
 
 **Prompt Consistency for Zero-Shot Task Generalization**  
-Chunting Zhou*, *<ins>Junxian He</ins>*\*, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig  
+Chunting Zhou\*, *<ins>Junxian He</ins>*\*, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig  
 EMNLP 2022 Findings. [[arxiv]](https://arxiv.org/abs/2205.00049)
 
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
