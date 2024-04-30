@@ -18,22 +18,25 @@ I obtained my PhD from [Carnegie Mellon University](https://www.cmu.edu), [Langu
 ### <span style="color:red">Prospective Students:</span>
 I am always actively looking for strong and self-motivated students to join us! Current PhD applications are for 2025 Fall, I encourage you to reach out early to ensure consideration. 
 <!-- The PhD/Mphil positions in my group has been filled up for 2024 Fall.  -->
-For research assistants/visitors, at this moment I only host external visitors in exceptional cases, for example, if you have a good research background and work on projects that align with my interests well. Please drop me an email if you are interested.
+I also have several research assistant positions opening starting anytime. 
+<!-- at this moment I only host external visitors in exceptional cases, for example, if you have a good research background and work on projects that align with my interests well.  -->
+Please drop me an email if you are interested.
 <!-- I am always actively looking for strong and self-motivated students to join us! I have multiple PhD/Mphil openings starting in 2024 Fall at HKUST, as well as RA positions starting anytime. If you are interested, please drop me an email with your CV (the email subject line should include "Prospective PhD/Mphil/RA Student"). For 2024 Fall PhD/Mphil applicants, I encourage you to reach out as soon as possible to ensure consideration. I may not be able to respond to all emails, sorry.  -->
-
-# Research
-        
-I am generally interested in natural language processing and machine learning. Current interests are on several aspects around large language models: 
-- parameter-efficient tuning -- efficiency, modular, composition 
-- multi-step reasoning
-- factuality -- method and evaluation
-- evaluation of foundation models -- knowledge, reasoning, tool use, etc.
-- data-centric approaches 
-- language model as agent
 
 
 <!-- My research covers (latent-variable) generative models, controllable text generation, efficient text generation, and non-parametric language models.  -->
 
+
+# Research
+        
+I am generally interested in natural language processing and machine learning. Current interests are on several aspects around large language models (with the corresponding recent papers): 
+
+- complex reasoning ([Guided Decoding (NeurIPS23)](https://arxiv.org/abs/2305.00633))  
+- data-centric approaches ([Deita (ICLR24)](https://arxiv.org/abs/2312.15685))
+- evaluation of foundation models ([CEval (NeurIPS23)](https://arxiv.org/abs/2305.08322), [Compression](https://arxiv.org/abs/2404.09937)) 
+- LLM agents ([AgentBoard](https://arxiv.org/abs/2401.13178))
+- parameter-efficient tuning -- efficiency, modular, composition ([Unify PEFT (ICLR22)](https://arxiv.org/abs/2110.04366), [Compose PEFT (NeurIPS23)](https://arxiv.org/abs/2306.14870))
+- factuality -- method and evaluation ([FELM (NeurIPS23)](https://arxiv.org/abs/2310.00741), [Calibration (ICLR24)](https://arxiv.org/abs/2306.13063))
 
 
 # Teaching
