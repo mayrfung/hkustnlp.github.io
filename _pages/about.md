@@ -31,12 +31,12 @@ Please drop me an email if you are interested.
         
 I am generally interested in natural language processing and machine learning. Current interests are on several aspects around large language models (with the corresponding recent papers): 
 
-- complex reasoning ([Guided Decoding (NeurIPS23)](https://arxiv.org/abs/2305.00633))  
-- data-centric approaches ([Deita (ICLR24)](https://arxiv.org/abs/2312.15685))
-- evaluation of foundation models ([CEval (NeurIPS23)](https://arxiv.org/abs/2305.08322), [Compression](https://arxiv.org/abs/2404.09937)) 
+- complex reasoning ([Guided Decoding](https://arxiv.org/abs/2305.00633))  
+- data-centric approaches ([Deita](https://arxiv.org/abs/2312.15685))
+- evaluation of foundation models ([CEval](https://arxiv.org/abs/2305.08322), [Compression](https://arxiv.org/abs/2404.09937)) 
 - LLM agents ([AgentBoard](https://arxiv.org/abs/2401.13178))
-- parameter-efficient tuning -- efficiency, modular, composition ([Unify PEFT (ICLR22)](https://arxiv.org/abs/2110.04366), [Compose PEFT (NeurIPS23)](https://arxiv.org/abs/2306.14870))
-- factuality -- method and evaluation ([FELM (NeurIPS23)](https://arxiv.org/abs/2310.00741), [Calibration (ICLR24)](https://arxiv.org/abs/2306.13063))
+- parameter-efficient tuning -- efficiency, modular, composition ([Unify PEFT](https://arxiv.org/abs/2110.04366), [Compose PEFT](https://arxiv.org/abs/2306.14870))
+- factuality -- method and evaluation ([FELM](https://arxiv.org/abs/2310.00741), [Calibration](https://arxiv.org/abs/2306.13063))
 
 
 # Teaching

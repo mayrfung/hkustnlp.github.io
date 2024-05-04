@@ -8,6 +8,9 @@ author_profile: true
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=BIFGeoUAAAAJ&hl=en).  
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
+**In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
+Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, *<ins>Junxian He</ins>*  
+ICML 2024. [[arxiv]](https://arxiv.org/abs/2403.01548) [[github]](https://github.com/hkust-nlp/Activation_decoding)
 
 **What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning**  
 Wei Liu\*, Weihao Zeng\*, Keqing He, Yong Jiang, *<ins>Junxian He</ins>*  
