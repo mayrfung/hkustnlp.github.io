@@ -9,10 +9,13 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
+**Prompt Optimization via Adversarial In-Context Learning**  
+Xuan Long Do\*, Yiran Zhao\*, Hannah Brown\*, Yuxi Xie, James Xu Zhao, Nancy F. Chen, Kenji Kawaguchi, Michael Qizhe Xie, *<ins>Junxian He</ins>*  
+ACL 2024. [[arxiv]](https://arxiv.org/abs/2312.02614)
 
 **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
 Shiqi Chen\*, Miao Xiong\*, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, *<ins>Junxian He</ins>*  
-ICML 2024. [[arxiv]](https://arxiv.org/abs/2403.01548) [[github]](https://github.com/hkust-nlp/Activation_decoding)
+ICML 2024. [[arxiv]](https://arxiv.org/abs/2403.01548) [[code]](https://github.com/hkust-nlp/Activation_decoding)
 
 **What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning**  
 Wei Liu\*, Weihao Zeng\*, Keqing He, Yong Jiang, *<ins>Junxian He</ins>*  

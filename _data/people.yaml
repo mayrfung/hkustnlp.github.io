@@ -23,6 +23,11 @@
       pic: "/images/members/shiqi_chen.jpg"
       description: PhD @ CityU
       bio : factuality
+    - name : Junlong Li
+      url : "https://lockon-n.github.io"
+      pic: "/images/members/junlong_li.jpg"
+      description: Master @ SJTU
+      bio : factuality
     - name : Junteng Liu
       url : "https://vicent0205.github.io/"
       pic: "/images/members/junteng_liu.jpg"
@@ -48,11 +53,6 @@
       pic: "/images/members/cheng_yang.jpg"
       description: Master @ Tsinghua
       bio: tool
-    - name : Jinghan Yang
-      url : "http://jinghanyang.com/"
-      pic: "/images/members/jinghan_yang.jpg"
-      description: Undergrad @ HKU
-      bio : ICL
     - name : Weihao Zeng
       url : "https://zeng-wh.github.io/about/?lang=en"
       pic: "/images/members/weihao_zeng.jpg"
@@ -63,6 +63,11 @@
       pic: "/images/members/junlei_zhang.jpg"
       description: PhD @ Westlake
       bio: tool
+    # - name : Jinghan Yang
+    #   url : "http://jinghanyang.com/"
+    #   pic: "/images/members/jinghan_yang.jpg"
+    #   description: Undergrad @ HKU
+    #   bio : ICL
     # - name: Ting Wu
     #   url: ""
     #   pic: "/images/members/ting_wu.jpg"
