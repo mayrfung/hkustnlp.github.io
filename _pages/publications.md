@@ -9,6 +9,11 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
+**Compression Represents Intelligence Linearly**    
+Yuzhen Huang\*, Jinghan Zhang\*, Zifei Shan, *<ins>Junxian He</ins>*  
+COLM 2024. [[arxiv]](https://arxiv.org/abs/2404.09937) [[code]](https://github.com/hkust-nlp/llm-compression-intelligence)
+
+
 **Prompt Optimization via Adversarial In-Context Learning**  
 Xuan Long Do\*, Yiran Zhao\*, Hannah Brown\*, Yuxi Xie, James Xu Zhao, Nancy F. Chen, Kenji Kawaguchi, Michael Qizhe Xie, *<ins>Junxian He</ins>*  
 ACL 2024. [[arxiv]](https://arxiv.org/abs/2312.02614)
