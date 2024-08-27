@@ -40,7 +40,7 @@ I am generally interested in machine learning and natural language processing. C
 
 
 # Teaching
-[2024 Spring] [Machine Learning [COMP 5212]](/teaching/comp5212s24)
+[2024 Spring] [Machine Learning [COMP 5212]](/teaching/comp5212s24)  
 [2024 Fall] Machine Learning [COMP 5212]
 
 # Service
