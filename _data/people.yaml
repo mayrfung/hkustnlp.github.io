@@ -33,6 +33,11 @@
       pic: "/images/members/shiqi_chen.jpg"
       description: PhD @ CityU
       bio : factuality
+    - name: Yiyun Deng
+      url: ""
+      pic: "/images/members/yiyun_deng.jpg"
+      description: Undergrad @ Tsinghua
+      bio: 
     - name : Junlong Li
       url : "https://lockon-n.github.io"
       pic: "/images/members/junlong_li.jpg"
