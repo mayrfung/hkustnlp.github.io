@@ -11,7 +11,7 @@ redirect_from:
 <!-- ## About Me -->
 I am a tenure-track assistant professor in [The Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk). 
 <!-- in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/). -->
-I obtained my PhD from [Carnegie Mellon University](https://www.cmu.edu), [Language Technologies Institute](https://www.lti.cs.cmu.edu) in the [School of Computer Science](https://www.cs.cmu.edu) in 2022, where I was co-advised by [Graham Neubig](http://www.phontron.com) and [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received the bachelor degree in Electronic Engineering from Shanghai Jiao Tong University in 2017. I also spent some time at Facebook AI Research (2019) and Salesforce Research (2020).  
+I obtained my PhD from [Carnegie Mellon University](https://www.cmu.edu), [Language Technologies Institute](https://www.lti.cs.cmu.edu) in 2022, where I was co-advised by [Graham Neubig](http://www.phontron.com) and [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received the bachelor degree in Electronic Engineering from Shanghai Jiao Tong University in 2017. I also spent some time at Facebook AI Research (2019) and Salesforce Research (2020).  
 
 <!-- I have interned at Facebook AI Research (2019), working with [Jiatao Gu](https://jiataogu.me) and [Marc'Aurelio Ranzato](https://ranzato.github.io); interned at Salesforce Research (2020), working with [Bryan McCann](https://bmccann.github.io); and visited Machine Learning Department of Carnegie Mellon University (2016), working with [Zhiting Hu](http://zhiting.ucsd.edu) and [Eric Xing](https://www.cs.cmu.edu/~epxing/).  -->
 
@@ -29,21 +29,22 @@ Please drop me an email if you are interested.
 
 # Research
         
-I am generally interested in natural language processing and machine learning. Current interests are on several aspects around large language models (with the corresponding recent papers): 
+I am generally interested in machine learning and natural language processing. Currently, I am passionate about long-horizon reasoning and planning of large language models.
 
-- complex reasoning ([Guided Decoding](https://arxiv.org/abs/2305.00633))  
+<!-- - complex reasoning ([Guided Decoding](https://arxiv.org/abs/2305.00633))  
 - data-centric approaches ([Deita](https://arxiv.org/abs/2312.15685))
 - evaluation of foundation models ([CEval](https://arxiv.org/abs/2305.08322), [Compression](https://arxiv.org/abs/2404.09937)) 
 - LLM agents ([AgentBoard](https://arxiv.org/abs/2401.13178))
 - parameter-efficient tuning -- efficiency, modular, composition ([Unify PEFT](https://arxiv.org/abs/2110.04366), [Compose PEFT](https://arxiv.org/abs/2306.14870))
-- factuality -- method and evaluation ([FELM](https://arxiv.org/abs/2310.00741), [Calibration](https://arxiv.org/abs/2306.13063))
+- factuality -- method and evaluation ([FELM](https://arxiv.org/abs/2310.00741), [Calibration](https://arxiv.org/abs/2306.13063)) -->
 
 
 # Teaching
-[2024 Spring] [Machine Learning [COMP 5212]](/teaching/comp5212s24)
+[2024 Spring] Machine Learning [COMP 5212]
+[2024 Fall] Machine Learning [COMP 5212]
 
 # Service
-Area Chair: EMNLP22, ACL23, EMNLP23    
+Area Chair: ICLR, EMNLP, ACL, ARR    
 Reviewer: ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, ARR, TMLR
 
 # Awards

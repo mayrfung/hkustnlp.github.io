@@ -5,16 +5,26 @@
       url: "https://hyz17.github.io/"
       pic: "/images/members/yuzhen_huang.jpg"
       description : PhD
+    - name : Junteng Liu
+      url : "https://vicent0205.github.io/"
+      pic: "/images/members/junteng_liu.jpg"
+      description: Undergrad @ SJTU
+      bio : factuality
+    - name: Wei Liu
+      url: "https://vpeterv.github.io/"
+      pic: "/images/members/wei_liu.jpg"
+      description: Master @ ShanghaiTech 
+      bio: SFT
+    - name : Kashun Shum
+      github: 
+      url: "https://shumkashun.github.io"
+      pic: "/images/members/kashun_shum.png"
+      description : PhD
     - name : Jinghan Zhang
       github: 
       url: "http://jinghan23.github.io/"
       pic: "/images/members/jinghan_zhang.jpg"
       description : PhD
-    - name : Kashun Shum
-      github: 
-      url: "https://shumkashun.github.io"
-      pic: "/images/members/kashun_shum.png"
-      description : MPhil
       
 - group : Research Assistants/Visitors
   people :
@@ -28,16 +38,6 @@
       pic: "/images/members/junlong_li.jpg"
       description: Master @ SJTU
       bio : factuality
-    - name : Junteng Liu
-      url : "https://vicent0205.github.io/"
-      pic: "/images/members/junteng_liu.jpg"
-      description: Undergrad @ SJTU
-      bio : factuality
-    - name: Wei Liu
-      url: "https://vpeterv.github.io/"
-      pic: "/images/members/wei_liu.jpg"
-      description: Master @ ShanghaiTech 
-      bio: SFT
     - name: Chang Ma
       url: "https://chang-github-00.github.io/-changma/"
       pic: "/images/members/chang_ma.jpg"
@@ -48,11 +48,6 @@
       pic: "/images/members/yuxuan_tong.jpg"
       description: Undergrad @ Tsinghua
       bio: reward model
-    - name: Cheng Yang
-      url: ""
-      pic: "/images/members/cheng_yang.jpg"
-      description: Master @ Tsinghua
-      bio: tool
     - name : Weihao Zeng
       url : "https://zeng-wh.github.io/about/?lang=en"
       pic: "/images/members/weihao_zeng.jpg"
@@ -63,6 +58,11 @@
       pic: "/images/members/junlei_zhang.jpg"
       description: PhD @ Westlake
       bio: tool
+    # - name: Cheng Yang
+    #   url: ""
+    #   pic: "/images/members/cheng_yang.jpg"
+    #   description: Master @ Tsinghua
+    #   bio: tool
     # - name : Jinghan Yang
     #   url : "http://jinghanyang.com/"
     #   pic: "/images/members/jinghan_yang.jpg"
