@@ -8,12 +8,12 @@
     - name : Junteng Liu
       url : "https://vicent0205.github.io/"
       pic: "/images/members/junteng_liu.jpg"
-      description: Undergrad @ SJTU
+      description: PhD
       bio : factuality
     - name: Wei Liu
       url: "https://vpeterv.github.io/"
       pic: "/images/members/wei_liu.jpg"
-      description: Master @ ShanghaiTech 
+      description: PhD
       bio: SFT
     - name : Kashun Shum
       github: 
