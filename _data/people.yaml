@@ -25,6 +25,11 @@
       url: "http://jinghan23.github.io/"
       pic: "/images/members/jinghan_zhang.jpg"
       description : PhD
+    - name : Liangjun Zhong
+      github: 
+      url: 
+      pic: "/images/members/liangjun_zhong.jpg"
+      description : PhD
       
 - group : Research Assistants/Visitors
   people :
