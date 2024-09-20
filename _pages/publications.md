@@ -9,6 +9,15 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
+**On the Universal Truthfulness Hyperplane Inside LLMs**  
+Junteng Liu, Shiqi Chen, Yu Cheng, *<ins>Junxian He</ins>*  
+EMNLP 2024.
+
+**Belief Revision: The Adaptability of Large Language Models Reasoning**  
+Bryan Wilie, Samuel Cahyawijaya, Etsuko Ishii, *<ins>Junxian He</ins>* , Pascale Fung  
+EMNLP 2024.
+
+
 **Compression Represents Intelligence Linearly**    
 Yuzhen Huang\*, Jinghan Zhang\*, Zifei Shan, *<ins>Junxian He</ins>*  
 COLM 2024. [[arxiv]](https://arxiv.org/abs/2404.09937) [[code]](https://github.com/hkust-nlp/llm-compression-intelligence)
