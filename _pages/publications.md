@@ -10,8 +10,8 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
 **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**  
-Chang Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, *<ins>Junxian He</ins>*  
-NeurIPS 2024 (Datasets and Benchmarks Track, <span style="color:red">oral</span>). [[arxiv]](https://arxiv.org/abs/2401.13178) [[github]](https://github.com/hkust-nlp/AgentBoard)
+Chang Ma\*, Junlei Zhang\*, Zhihao Zhu\*, Cheng Yang\*, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, *<ins>Junxian He</ins>*  
+NeurIPS 2024 (Datasets and Benchmarks Track) (<span style="color:red">oral</span>). [[arxiv]](https://arxiv.org/abs/2401.13178) [[github]](https://github.com/hkust-nlp/AgentBoard)
 
 **DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving**  
 Yuxuan Tong, Xiwen Zhang, Rui Wang, Ruidong Wu, *<ins>Junxian He</ins>*   
