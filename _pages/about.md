@@ -49,5 +49,6 @@ Reviewer: ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, ARR, TMLR
 
 # Awards
 Baidu PhD Fellowship, class of 2020 (10 recipients worldwide)  
-Outstanding Undergraduate Thesis in SJTU (top 1%)  
 National Scholarship in China (2014/2015/2016)
+<!-- Outstanding Undergraduate Thesis in SJTU (top 1%)   -->
+
