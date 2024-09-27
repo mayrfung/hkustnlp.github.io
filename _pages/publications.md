@@ -11,7 +11,8 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**  
 Chang Ma\*, Junlei Zhang\*, Zhihao Zhu\*, Cheng Yang\*, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, *<ins>Junxian He</ins>*  
-NeurIPS 2024 (Datasets and Benchmarks Track) (<span style="color:red">oral</span>). [[arxiv]](https://arxiv.org/abs/2401.13178) [[github]](https://github.com/hkust-nlp/AgentBoard)
+NeurIPS 2024 (Datasets and Benchmarks Track). [[arxiv]](https://arxiv.org/abs/2401.13178) [[github]](https://github.com/hkust-nlp/AgentBoard)  
+<span style="color:red"><i>Oral</i></span>
 
 **DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving**  
 Yuxuan Tong, Xiwen Zhang, Rui Wang, Ruidong Wu, *<ins>Junxian He</ins>*   
@@ -97,7 +98,8 @@ EMNLP 2022 Findings. [[arxiv]](https://arxiv.org/abs/2205.00049)
 
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
 *<ins>Junxian He</ins>*\*, Chunting Zhou*, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
-ICLR 2022 (<span style="color:red">spotlight, 5%</span>). [[OpenReview]](https://openreview.net/forum?id=0RDcd5Axok) [[arxiv]](http://arxiv.org/abs/2110.04366) [[code]](https://github.com/jxhe/unify-parameter-efficient-tuning)
+ICLR 2022. [[OpenReview]](https://openreview.net/forum?id=0RDcd5Axok) [[arxiv]](http://arxiv.org/abs/2110.04366) [[code]](https://github.com/jxhe/unify-parameter-efficient-tuning)  
+<span style="color:red"><i>Spotlight</i></span>
 
 **Capturing Structural Locality in Non-parametric Language Models**  
 Frank F. Xu, *<ins>Junxian He</ins>*, Graham Neubig, Vincent Josua Hellendoorn  
@@ -129,7 +131,8 @@ ICLR 2020. [[arxiv]](https://arxiv.org/abs/1909.13788) [[code]](https://github.c
 
 **A Probabilistic Formulation of Unsupervised Text Style Transfer**  
 *<ins>Junxian He</ins>*\*, Xinyi Wang*, Graham Neubig, Taylor Berg-Kirkpatrick  
-ICLR 2020 (<span style="color:red">spotlight, 5%</span>). [[arxiv]](https://arxiv.org/abs/2002.03912) [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
+ICLR 2020. [[arxiv]](https://arxiv.org/abs/2002.03912) [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)  
+<span style="color:red"><i>Spotlight</i></span>
 
 **On the Sentence Embeddings from Pre-trained Language Models**  
 Bohan Li, Hao Zhou, *<ins>Junxian He</ins>*, Mingxuan Wang, Yiming Yang, Lei Li  
