@@ -68,6 +68,11 @@
       pic: "/images/members/junlei_zhang.jpg"
       description: PhD @ Westlake
       bio: tool
+    - name: Ruochen Zhou
+      url: ""
+      pic: "/images/members/ruochen_zhou.jpg"
+      description: PhD @ CityU
+      bio: tool
     # - name: Cheng Yang
     #   url: ""
     #   pic: "/images/members/cheng_yang.jpg"
