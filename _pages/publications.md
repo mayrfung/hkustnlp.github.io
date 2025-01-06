@@ -9,6 +9,18 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
+**B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners**  
+Weihao Zeng\*, Yuzhen Huang\*, Lulu Zhao, Yijun Wang, Zifei Shan, Junxian He  
+Preprint 2024. [[arxiv]](https://arxiv.org/abs/2412.17256) [[github]](https://github.com/hkust-nlp/B-STaR)
+
+**Diving into Self-Evolving Training for Multimodal Reasoning**  
+Wei Liu\*, Junlong Li\*, Xiwen Zhang, Fan Zhou, Yu Cheng, Junxian He  
+Preprint 2024. [[arxiv]](https://arxiv.org/abs/2412.17451) [[github]](https://github.com/hkust-nlp/mstar)
+
+**Non-myopic Generation of Language Models for Reasoning and Planning**  
+Chang Ma, Haiteng Zhao, Junlei Zhang, Junxian He, Lingpeng Kong  
+Preprint 2024. [[arxiv]](https://arxiv.org/abs/2410.17195)
+
 **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**  
 Chang Ma\*, Junlei Zhang\*, Zhihao Zhu\*, Cheng Yang\*, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, *<ins>Junxian He</ins>*  
 NeurIPS 2024 (Datasets and Benchmarks Track). [[arxiv]](https://arxiv.org/abs/2401.13178) [[github]](https://github.com/hkust-nlp/AgentBoard)  
@@ -24,7 +36,7 @@ NeurIPS 2024. [[arxiv]](https://arxiv.org/abs/2402.03271)
 
 **On the Universal Truthfulness Hyperplane Inside LLMs**  
 Junteng Liu, Shiqi Chen, Yu Cheng, *<ins>Junxian He</ins>*  
-EMNLP 2024.
+EMNLP 2024. [[arxiv]](https://arxiv.org/abs/2407.08582)
 
 **Belief Revision: The Adaptability of Large Language Models Reasoning**  
 Bryan Wilie, Samuel Cahyawijaya, Etsuko Ishii, *<ins>Junxian He</ins>* , Pascale Fung  
