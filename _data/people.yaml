@@ -1,41 +1,90 @@
-- group : Principal Investigators
+- group : PhD/MPhil Students
   people :
-    - name : Yangqiu Song
+    - name : Yuzhen Huang
       github: 
       url: "https://hyz17.github.io/"
       pic: "/images/members/yuzhen_huang.jpg"
-      description : Associate Professor
-    - name : Junxian He
+      description : PhD
+    - name : Junteng Liu
       url : "https://vicent0205.github.io/"
       pic: "/images/members/junteng_liu.jpg"
-      description: Assistant Professor
+      description: PhD
       bio : factuality
-    - name: Yi R. (May) Fung
+    - name: Wei Liu
       url: "https://vpeterv.github.io/"
       pic: "/images/members/wei_liu.jpg"
       description: PhD
-      bio: Assistant Professor
+      bio: SFT
+    - name : Kashun Shum
+      github: 
+      url: "https://shumkashun.github.io"
+      pic: "/images/members/kashun_shum.png"
+      description : PhD
+    - name : Jinghan Zhang
+      github: 
+      url: "http://jinghan23.github.io/"
+      pic: "/images/members/jinghan_zhang.jpg"
+      description : PhD
+    - name : Liangjun Zhong
+      github: 
+      url: 
+      pic: "/images/members/liangjun_zhong.jpg"
+      description : PhD
       
-- group : PhD Students
+- group : Research Assistants/Visitors
   people :
     - name : Shiqi Chen
       url : "https://shiqichen17.github.io"
       pic: "/images/members/shiqi_chen.jpg"
       description: PhD @ CityU
       bio : factuality
-
-- group : MPhil Students
-  people :
-    - name : Shiqi Chen
-      url : "https://shiqichen17.github.io"
-      pic: "/images/members/shiqi_chen.jpg"
-      description: PhD @ CityU
+    - name: Yiyun Deng
+      url: ""
+      pic: "/images/members/yiyun_deng.jpg"
+      description: Undergrad @ Tsinghua
+      bio: 
+    - name : Junlong Li
+      url : "https://lockon-n.github.io"
+      pic: "/images/members/junlong_li.jpg"
+      description: Master @ SJTU
       bio : factuality
-
-- group : Visiting Students
-  people :
-    - name : Shiqi Chen
-      url : "https://shiqichen17.github.io"
-      pic: "/images/members/shiqi_chen.jpg"
+    - name: Chang Ma
+      url: "https://chang-github-00.github.io/-changma/"
+      pic: "/images/members/chang_ma.jpg"
+      description: PhD @ HKU
+      bio: AI for Science
+    - name: Yuxuan Tong
+      url: "https://tongyx361.github.io/"
+      pic: "/images/members/yuxuan_tong.jpg"
+      description: Undergrad @ Tsinghua
+      bio: reward model
+    - name : Weihao Zeng
+      url : "https://zeng-wh.github.io/about/?lang=en"
+      pic: "/images/members/weihao_zeng.jpg"
+      description: Master @ BUPT
+      bio : sft
+    - name: Junlei Zhang
+      url: ""
+      pic: "/images/members/junlei_zhang.jpg"
+      description: PhD @ Westlake
+      bio: tool
+    - name: Ruochen Zhou
+      url: ""
+      pic: "/images/members/ruochen_zhou.jpg"
       description: PhD @ CityU
-      bio : factuality
+      bio: tool
+    # - name: Cheng Yang
+    #   url: ""
+    #   pic: "/images/members/cheng_yang.jpg"
+    #   description: Master @ Tsinghua
+    #   bio: tool
+    # - name : Jinghan Yang
+    #   url : "http://jinghanyang.com/"
+    #   pic: "/images/members/jinghan_yang.jpg"
+    #   description: Undergrad @ HKU
+    #   bio : ICL
+    # - name: Ting Wu
+    #   url: ""
+    #   pic: "/images/members/ting_wu.jpg"
+    #   description: Master @ Fudan
+    #   bio: reasoning
